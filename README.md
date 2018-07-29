@@ -1,10 +1,10 @@
-#Myn Framework
->Myn Framework is a small PHP MVC Framework created by academic reasons.
+# Myn Framework
+> Myn Framework is a small PHP MVC Framework created by academic reasons.
 
 
-##Requirements
+## Requirements
 * [PHP](http://php.net/) -- v5.0 or newer
 
 
-##License
+## License
 MIT. See [LICENSE](https://github.com/lucascaprio/myn-framework/blob/master/LICENSE) file.
